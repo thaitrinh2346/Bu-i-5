@@ -1,0 +1,4 @@
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\netcoreapp3.1\QuanLyThuVien.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\netcoreapp3.1\QuanLyThuVien.DTO.AssemblyInfoInputs.cache
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\netcoreapp3.1\QuanLyThuVien.DTO.AssemblyInfo.cs
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\netcoreapp3.1\QuanLyThuVien.DTO.csproj.CoreCompileInputs.cache

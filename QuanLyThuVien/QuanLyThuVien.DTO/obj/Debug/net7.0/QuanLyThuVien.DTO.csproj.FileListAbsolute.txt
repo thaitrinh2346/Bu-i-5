@@ -1,0 +1,11 @@
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\bin\Debug\net7.0\QuanLyThuVien.DTO.deps.json
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\bin\Debug\net7.0\QuanLyThuVien.DTO.dll
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\bin\Debug\net7.0\QuanLyThuVien.DTO.pdb
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\QuanLyThuVien.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\QuanLyThuVien.DTO.AssemblyInfoInputs.cache
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\QuanLyThuVien.DTO.AssemblyInfo.cs
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\QuanLyThuVien.DTO.csproj.CoreCompileInputs.cache
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\QuanLyThuVien.DTO.dll
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\refint\QuanLyThuVien.DTO.dll
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\QuanLyThuVien.DTO.pdb
+D:\CCPTMT\buoi5\QuanLyThuVien\QuanLyThuVien.DTO\obj\Debug\net7.0\ref\QuanLyThuVien.DTO.dll

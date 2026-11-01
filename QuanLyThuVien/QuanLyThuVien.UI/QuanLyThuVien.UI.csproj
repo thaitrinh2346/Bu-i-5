@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows7.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <RollForward>LatestMajor</RollForward>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <NoWarn>$(NoWarn);CA1416</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\QuanLyThuVien.BLL\QuanLyThuVien.BLL.csproj" />
+    <ProjectReference Include="..\QuanLyThuVien.DTO\QuanLyThuVien.DTO.csproj" />
+  </ItemGroup>
+
+</Project>

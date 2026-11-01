@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDBE20-54F9-405F-B200-9400B6E113AD}|QuanLyThuVien.DAL\\QuanLyThuVien.DAL.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.dal\\docgiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDBE20-54F9-405F-B200-9400B6E113AD}|QuanLyThuVien.DAL\\QuanLyThuVien.DAL.csproj|solutionrelative:quanlythuvien.dal\\docgiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A25D704-9AFB-4AC4-B8B7-52A732ADF4FB}|QuanLyThuVien.BLL\\QuanLyThuVien.BLL.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.bll\\docgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A25D704-9AFB-4AC4-B8B7-52A732ADF4FB}|QuanLyThuVien.BLL\\QuanLyThuVien.BLL.csproj|solutionrelative:quanlythuvien.bll\\docgiabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.ui\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|solutionrelative:quanlythuvien.ui\\helpers\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|solutionrelative:quanlythuvien.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F508FF0B-1291-4E47-B65F-9C0C4527C188}|QuanLyThuVien.tests\\QuanLyThuVien.Tests.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.tests\\docgiatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F508FF0B-1291-4E47-B65F-9C0C4527C188}|QuanLyThuVien.tests\\QuanLyThuVien.Tests.csproj|solutionrelative:quanlythuvien.tests\\docgiatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CB53C8B-803E-4917-81ED-1122EA1DF7B6}|QuanLyThuVien.DTO\\QuanLyThuVien.DTO.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.dto\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CB53C8B-803E-4917-81ED-1122EA1DF7B6}|QuanLyThuVien.DTO\\QuanLyThuVien.DTO.csproj|solutionrelative:quanlythuvien.dto\\docgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8EDBE20-54F9-405F-B200-9400B6E113AD}|QuanLyThuVien.DAL\\QuanLyThuVien.DAL.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.dal\\idocgiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8EDBE20-54F9-405F-B200-9400B6E113AD}|QuanLyThuVien.DAL\\QuanLyThuVien.DAL.csproj|solutionrelative:quanlythuvien.dal\\idocgiadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|D:\\CCPTMT\\buoi5\\QuanLyThuVien\\quanlythuvien.ui\\forms\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|solutionrelative:quanlythuvien.ui\\forms\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|d:\\ccptmt\\buoi5\\quanlythuvien\\quanlythuvien.ui\\forms\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F9F442B-ABA0-4923-AAC7-C887D3E0D23C}|QuanLyThuVien.UI\\QuanLyThuVien.UI.csproj|solutionrelative:quanlythuvien.ui\\forms\\frmdocgia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocGiaDAL.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.DAL\\DocGiaDAL.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.DAL\\DocGiaDAL.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.DAL\\DocGiaDAL.cs",
+              "RelativeToolTip": "QuanLyThuVien.DAL\\DocGiaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:22:46.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocGia.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.DTO\\DocGia.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.DTO\\DocGia.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.DTO\\DocGia.cs",
+              "RelativeToolTip": "QuanLyThuVien.DTO\\DocGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:22:15.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocGiaTests.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.tests\\DocGiaTests.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.tests\\DocGiaTests.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.tests\\DocGiaTests.cs",
+              "RelativeToolTip": "QuanLyThuVien.tests\\DocGiaTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:29:12.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.UI\\Program.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Program.cs",
+              "RelativeToolTip": "QuanLyThuVien.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:46:15.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocGiaBLL.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.BLL\\DocGiaBLL.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.BLL\\DocGiaBLL.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.BLL\\DocGiaBLL.cs",
+              "RelativeToolTip": "QuanLyThuVien.BLL\\DocGiaBLL.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:23:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDocGia.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Forms\\frmDocGia.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.UI\\Forms\\frmDocGia.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Forms\\frmDocGia.cs",
+              "RelativeToolTip": "QuanLyThuVien.UI\\Forms\\frmDocGia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:21:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Helpers\\Logger.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.UI\\Helpers\\Logger.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Helpers\\Logger.cs",
+              "RelativeToolTip": "QuanLyThuVien.UI\\Helpers\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T02:10:17.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDocGIaDAL.cs",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.DAL\\IDocGIaDAL.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.DAL\\IDocGIaDAL.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.DAL\\IDocGIaDAL.cs",
+              "RelativeToolTip": "QuanLyThuVien.DAL\\IDocGIaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:33:43.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmDocGia.cs [Design]",
+              "DocumentMoniker": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Forms\\frmDocGia.cs",
+              "RelativeDocumentMoniker": "QuanLyThuVien.UI\\Forms\\frmDocGia.cs",
+              "ToolTip": "D:\\CCPTMT\\buoi5\\QuanLyThuVien\\QuanLyThuVien.UI\\Forms\\frmDocGia.cs [Design]",
+              "RelativeToolTip": "QuanLyThuVien.UI\\Forms\\frmDocGia.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-01T01:24:28.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
